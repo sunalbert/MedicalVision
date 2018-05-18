@@ -19,7 +19,7 @@ class ConfigurationError(Exception):
         return repr(self.message)
 
 
-def log_pytorch_version_info():
+def log_pytorch_version_info(): #
     import torch
     logger.info("Pytorch version is: {}".format(torch.__version__))
 

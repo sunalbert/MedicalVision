@@ -6,6 +6,7 @@ from tqdm import tqdm as _tqdm
 
 _tqdm.monitor_interval = 0
 
+
 class Tqdm:
     default_mininterval: float = 0.1
 
