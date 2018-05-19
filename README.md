@@ -6,6 +6,10 @@ As the deep learning goes popular in computer vision, many deep learning based w
 - Dataloaders for famous medical image dataset
 - Common losses and metrics used in the state-of-the-art models
 - Model zoo, including pretrained state-of-the-art models
-- ... 
+- ...
+
+The MedicalVision toolkit is still under development. The following popular deep learning models are coming soon:
+- 2D U-net
+- 3D U-net
 
 # Contributions
